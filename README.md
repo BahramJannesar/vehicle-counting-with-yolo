@@ -4,6 +4,7 @@ YOLO is an abbreviation for the term 'You Only Look Once'. This is an algorithm 
 ## How this project works ?
 
 Attach a video file to the project and the YOLO algorithm start to counting vehicles, i used coco name dataset for tags.
+Check this [link](https://drive.google.com/file/d/1BpGvY9Y6Rja6wGJHiANwXlhno3XDw-5b/view?usp=sharing) for sample of this project
 
 ## Prerequisites
 
